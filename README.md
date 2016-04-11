@@ -6,6 +6,10 @@ Something I whipped up in a short amount of time with no intent of ever releasin
 
 ***Using scripts like this CAN and WILL get you BANNED from http://scrap.tf/***
 
+***Make sure the Selenium ChromeDriver (chromedriver.exe) is in the SAME DIRECTORY AS THE SCRIPT***
+
+Download ChromeDriver from here: https://sites.google.com/a/chromium.org/chromedriver/downloads
+
 ---
 
 ###How to use:
