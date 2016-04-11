@@ -9,9 +9,13 @@ Will probably become obsolete or will break in the near-future. Didn't plan on r
 
 ***Make sure the Selenium ChromeDriver (chromedriver.exe) is in the SAME DIRECTORY AS THE SCRIPT***
 
-Download ChromeDriver from here: https://sites.google.com/a/chromium.org/chromedriver/downloads
-
 ---
+
+###Required:
+  1. Python 2.7.6
+  2. Selenium for Python (pip install selenium)
+  3. Selenium ChromeDriver (Download here: https://sites.google.com/a/chromium.org/chromedriver/downloads)
+  4. A Steam account and a brain
 
 ###How to use:
   1. Navigate to http://scrap.tf/
