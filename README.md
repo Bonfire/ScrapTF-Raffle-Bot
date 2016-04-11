@@ -1,8 +1,9 @@
 # ScrapTF-Raffle-Bot
 Automatically enters all open raffles utilizing Python's "Selenium" library.
 
-Will probably become obsolete or will break in the near-future. Probably won't be updating this.
-Something I whipped up in a short amount of time with no intent of ever releasing.
+Will probably become obsolete or will break in the near-future. Didn't plan on releasing it anyways.
+
+---
 
 ***Using scripts like this CAN and WILL get you BANNED from http://scrap.tf/***
 
