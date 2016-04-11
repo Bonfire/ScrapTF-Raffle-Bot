@@ -18,6 +18,6 @@ Download ChromeDriver from here: https://sites.google.com/a/chromium.org/chromed
   2. Login to Scrap.TF using their Steam OpenID login.
   3. Fetch the required cookies from your browser.
   4. Paste the required cookies into the script under each required 'VALUE'. 
-  5. Fire up the script.
+  5. Fire up the script and let it run fully. You will know when it is done.
 
 Example of a good cookie: cf_uid = {'name' : '_cfduid', 'value' : 'RANDOMLYGENERATEDVALUEHERE', 'secure' : True}
