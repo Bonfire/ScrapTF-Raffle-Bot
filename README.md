@@ -1,7 +1,10 @@
 # ScrapTF-Raffle-Bot
 Automatically enters all open raffles utilizing Python's "Selenium" library.
 
-Will probably become obsolete or will break in the near-future. I do not plan on updating or maintaining this project.
+Will probably become obsolete or will break in the near-future.
+
+I do not plan on updating or maintaining this project.
+
 ---
 
 **Make sure the Selenium ChromeDriver (chromedriver.exe) is in the same directory as the script**
